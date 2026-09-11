@@ -1,4 +1,4 @@
-![Jason Wiersum](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0038FF,100:4D70FF&text=Jason%20Wiersum&fontColor=FFFFFF&font=Inter&fontSize=50)
+![Jason Wiersum](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0038FF,100:4D70FF&text=Jason%20Wiersum&fontColor=FFFFFF&font=Inter&fontSize=50&y=30)
 <div align="center">
 
 Hi, ich bin Jason Wiersum.
