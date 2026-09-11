@@ -7,7 +7,7 @@ Im Oktober 2024 habe ich mit dem Programmieren angefangen und im Juli 2026 meine
 
 Zuvor habe ich mehrere Jahre in der Gastronomie und als Kaufmännischer Angestellter gearbeitet, sowohl im Innendienst als auch im Außendienst in ganz Deutschland.
 
-Heute verbinde ich meine bisherigen Erfahrungen mit meiner Leidenschaft für Softwareentwicklung. Mein Antrieb? Probleme verstehen, Lösungen entwickeln und mich kontinuierlich weiterentwickeln.
+Heute verbinde ich meine bisherigen Erfahrungen mit meiner Leidenschaft für Softwareentwicklung. Mein Ziel ist es, meine Fähigkeiten stetig weiterzuentwickeln und Software zu schreiben, die einen echten Mehrwert bietet.
 
 </div>
 
